@@ -3,12 +3,12 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.owner = ['6285546507487','0']
-global.packname = 'Bot Hosting'
-global.author = 'Nezuko'
+global.owner = ['66827294199','0']
+global.packname = 'satria hosting'
+global.author = 'satria'
 global.sessionName = 'data'
 global.prefa = ['','!','.','#']
-global.ownername = 'Owner'
+global.ownername = 'satria'
 global.sp = '>'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
